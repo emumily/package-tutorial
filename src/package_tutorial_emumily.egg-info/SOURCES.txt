@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/example_package/__init__.py
+src/example_package/example.py
+src/package_tutorial_emumily.egg-info/PKG-INFO
+src/package_tutorial_emumily.egg-info/SOURCES.txt
+src/package_tutorial_emumily.egg-info/dependency_links.txt
+src/package_tutorial_emumily.egg-info/top_level.txt
