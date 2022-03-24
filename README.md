@@ -1,7 +1,9 @@
 # Example Package
-
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
-
 ### following python packaging tutorial 
+https://packaging.python.org/en/latest/tutorials/packaging-projects/
+
+## Quick-start
+
+Setup a python virtual environment (code runs for python 3.6) with the appropriate packages from `requirements.txt`.
+
+ `example.py` contains two unrelated functions
